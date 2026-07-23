@@ -16,7 +16,7 @@ int main() {
     }
 
     // Loop statement (For Loop)
-    std::cout << "Counting down from 3:" << std::endl;
+    std::cout << "Counting down from 4:" << std::endl;
     for (int i = 3; i > 0; --i) {
         std::cout << i << "... " << std::endl;
     }
