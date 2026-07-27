@@ -2,8 +2,8 @@
 using namespace std;
 
 int main () {
-    for (int i=0; i<5; i++) {
-        cout << "sumit haldar" << endl;
+    for (int i=0; i<=5; i++) {
+        cout << i ;
     }
     return 0;
 }
