@@ -1,6 +1,6 @@
 # C++ Mind Map & Complete Roadmap
 
-Welcome to the comprehensive C++ Roadmap! This guide maps out the entire C++ language landscape, covering basic control flow, key data structures, advanced memory management, and Object-Oriented Programming (OOP).
+Welcome to the comprehensive C++ Roadmap! This guide maps out the entire C++ language landscape, covering basic control flow, key data structures, advanced memory management, and Object-Oriented Programming ().
 
 ---
 
